@@ -12,5 +12,5 @@ jobs:
   say-hello-inline-python:
     runs-on: ubuntu-24.04
     steps:
-      - run: print("Hello World from python)
+      - run: print("Hello World from python")
         shell: python
